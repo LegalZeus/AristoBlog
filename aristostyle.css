@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@700&display=swap');
+
+
+h1 {text-align: center;
+    font-size: 80px;
+    font-family: 'Alegreya Sans', sans-serif;
+    color:darkred}
+
+body {background-image: url(https://wallpapercave.com/wp/wp4506801.jpg);
+      background-size: cover;
+    
+      }
+
+li {color: white;}
+
+a1 {color:white;
+   font-family: 'Times New Roman', Times, serif;
+   font-style: italic;
+   font-size: large;
+   position: absolute;
+   right: 20px;
+   top: 30%;
+   font-weight: bold;   }
+
+a2 {color: rgb(165, 28, 4);
+    /*font-family: 'Times New Roman', Times, serif;*/
+    font-style: italic;
+    font-size: large;
+    position:absolute;
+    top: 30%;
+    right: 120px;;
+    font-weight: bold ;
+    background-color:whitesmoke ;}
+
+
+h2 {color: darkred;
+    position: relative;
+    top: 20%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;}
+
+
+.p0{color: white ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    position: absolute;
+    top: 40%;
+    font-weight: bold;}
+
+h3 {color: darkred;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: 65%;
+    left: 30%;}
+
+    /*
+a4{
+    color: white ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    position: absolute;
+    top: 113%;
+    left:55%;
+    font-weight: bold;}*/
+.p1{
+    color: white ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    position: absolute;
+    top: 100%;
+    left:55%;
+    font-weight: bold;
+}
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;;
+}
+
+a:link, a:visited{
+    color: white;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 120%;
+    text-decoration: none;
+}
